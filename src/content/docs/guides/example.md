@@ -150,4 +150,4 @@ Mit diesem Guide haben Sie alles, was Sie brauchen, um einen perfekten Apfelkuch
 
 ![Apfelkuchen Stück](https://images.unsplash.com/photo-1571115177098-24ec42ed204d?w=800&h=600&fit=crop)
 
-Viel Erfolg beim Backen und guten Appetit! 🍎🍰
+Viel Erfolg beim Backen und guten Appetit!
