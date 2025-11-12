@@ -6,18 +6,18 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Didit Checklists',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/seibert-external/didit-docs-starlight' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Checklist Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Example Guide', slug: 'guides/example' },
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'QA Reference',
 					autogenerate: { directory: 'reference' },
 				},
 			],
